@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=TTether
+name=Nougat+ Tasker Tether
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=matejdro/msauve
+description=Plug-in to allow tethering control in Nougat+
 minMagisk=1500

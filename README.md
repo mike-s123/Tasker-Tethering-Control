@@ -1,9 +1,5 @@
 # Magisk Module Template
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+This is a Magisk Module to do a system install of matejdro's Nougat+ Tasker Tethering Control (https://play.google.com/store/apps/details?id=com.matejdro.taskertethercontrol&hl=en)
 
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+He did all the work, I just packaged it into a Magisk module.

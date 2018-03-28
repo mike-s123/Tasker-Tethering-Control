@@ -1,7 +1,7 @@
 id=TTether
 name=Nougat+ Tasker Tether
-version=v1
+version=1.4/1.0
 versionCode=1
 author=matejdro/mike-s123
-description=Plug-in to allow tethering control in Nougat+
+description=Plug-in to allow Tasker tethering control in Nougat+
 minMagisk=1500

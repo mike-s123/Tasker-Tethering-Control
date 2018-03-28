@@ -1,4 +1,4 @@
-# Magisk Module Template
+# Nougat+ Tasker Tethering Control
 
 This is a Magisk Module to do a system install of matejdro's Nougat+ Tasker Tethering Control (https://play.google.com/store/apps/details?id=com.matejdro.taskertethercontrol&hl=en)
 
